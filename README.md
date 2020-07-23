@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on [TencentCloudBase/cloudbase-framework](https://github.com/TencentCloudBase/cloudbase-framework)
 - 💬 Ask me about Serverless/Frontend
-- 📫 How to reach me: 知乎@binggg
+- 📫 How to reach me: 知乎[@binggg](https://www.zhihu.com/people/binggg1988)
 
 [![](https://fx.service.tcloudbase.com/api?username=binggg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://fx.service.tcloudbase.com/api?username=binggg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
