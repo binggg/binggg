@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 I’m looking to collaborate on [TencentCloudBase/cloudbase-framework](https://github.com/TencentCloudBase/cloudbase-framework)
+- 👯 I’m looking to collaborate on [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework)
 - 💬 Ask me about Serverless/Frontend
 - 📫 How to reach me: 知乎[@binggg](https://www.zhihu.com/people/binggg1988)
 
