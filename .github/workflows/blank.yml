@@ -22,8 +22,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - env:
-          TEST_ENV: a\nb\\nc
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
@@ -33,6 +31,8 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
+        env: 
+          TEST_ENV: a\nb\\nc
         run: |
           echo "console.log(process.env.TEST_ENV.split(''))" >> index.js
           node index.js
