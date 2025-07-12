@@ -5,6 +5,3 @@
 - 💬 Ask me about AI/Serverless/Frontend
 
 [![binggg's GitHub stats](https://github-readme-stats.vercel.app/api?username=binggg&show_icons=true&theme=transparent)](https://github.com/binggg)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TencentCloudBase&repo=CloudBase-AI-ToolKit&theme=transparent)](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit)
-
