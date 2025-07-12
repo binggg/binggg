@@ -1,22 +1,10 @@
-### Hi there 👋
+### Hi there 👋  I'm Booker Zhao
 
-<!--
-**binggg/binggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m focus on [CloudBase AI Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit) 
+- 💬 How to reach me: X [Booker @being99](https://x.com/being99)
+- 💬 Ask me about AI/Serverless/Frontend
 
-Here are some ideas to get you started:
+[![binggg's GitHub stats](https://github-readme-stats.vercel.app/api?username=binggg&show_icons=true&theme=transparent)](https://github.com/binggg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TencentCloudBase&repo=CloudBase-AI-ToolKit&theme=transparent)](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit)
 
-- 👯 I’m looking to collaborate on [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework)
-- 💬 Ask me about Serverless/Frontend
-- 📫 How to reach me: 知乎[@binggg](https://www.zhihu.com/people/binggg1988)
-
-<!-- [![](https://fx.service.tcloudbase.com/api?username=binggg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&c=1)](https://fx.service.tcloudbase.com/api?username=binggg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&c=1)
